@@ -1,3 +1,5 @@
+# This script is based on the official GeoMx RNA-NGS analysis workflow:
+# https://www.bioconductor.org/packages/release/workflows/vignettes/GeoMxWorkflows/inst/doc/GeomxTools_RNA-NGS_Analysis.html
 
 library(NanoStringNCTools)
 library(GeomxTools)
@@ -23,10 +25,6 @@ datadir <- system.file("extdata", "WTA_NGS_Example",
 
 DCCFiles <- dir(file.path(base_dir, "raw_data/DCC-20250203"), pattern = ".dcc$",
                 full.names = TRUE, recursive = TRUE)
-#PKCFiles <- unzip(zipfile = dir(file.path(base_dir, "ref/pkcs"), pattern = ".zip$",
-#                                full.names = TRUE, recursive = TRUE))
-#PKCFiles <- unzip(zipfile = dir(file.path(datadir, "pkcs"), pattern = ".zip$",
-#                                full.names = TRUE, recursive = TRUE))
 PKCFiles = file.path(base_dir, "ref/pkcs", "Hs_R_NGS_WTA_v1.0.pkc")
 
 SampleAnnotationFile <- file.path(base_dir, "raw_data/annotations", "annotations.xlsx")
