@@ -18,7 +18,7 @@ The study is described in the following paper.
 - R with the following modules.
   - xxx ()
     
-    Our script was tested on the versions in parentheses, so we do not guarantee that it will work on different versions.
+    Our scripts were tested on the versions in parentheses, so we do not guarantee that they will work on different versions.
 
 ## Contact
 
