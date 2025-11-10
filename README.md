@@ -13,12 +13,6 @@ The study is described in the following paper.
 1. `geomxtools.R` — Used for NanoString data profiling and quality control (QC).
 2. Other scripts — Used for differential gene expression analysis, pathway enrichment analysis, and visualization.
 
-## Requirements
-
-- R with the following modules.
-  - xxx ()
-    
-    Our scripts were tested on the versions in parentheses, so we do not guarantee that they will work on different versions.
 
 ## Contact
 
