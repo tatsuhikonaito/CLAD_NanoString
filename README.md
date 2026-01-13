@@ -16,4 +16,4 @@ The study is described in the following paper.
 
 ## Contact
 
-For any questions, you can contact Tatsuhiko Naito (tnaito [at] sg.med.osaka-u.ac.jp)
+For any questions, please contact Tatsuhiko Naito (tatsuhiko.naito [at] mssm.edu)
