@@ -6,7 +6,7 @@ This repository contains the scripts used in our study on NanoString spatial tra
 
 The study is described in the following paper. 
 
-- xxx
+- Goda Y†, Naito T†, Banday M, et al. Spatial transcriptomics reveals coordinated endothelial and epithelial activator protein-1 activation in CLAD. in press.
 
 ## Overview
 
