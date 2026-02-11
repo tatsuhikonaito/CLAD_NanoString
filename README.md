@@ -6,7 +6,7 @@ This repository contains the scripts used in our study on NanoString GeoMx spati
 
 The study is described in the following paper. 
 
-- Goda Y†, Naito T†, Banday M, et al. Spatial transcriptomics reveals coordinated endothelial and epithelial activator protein-1 activation in CLAD. in press.
+- Goda Y†, Naito T†, Banday M, et al. Spatial transcriptomics reveals coordinated endothelial and epithelial activator protein-1 activation in CLAD. J. Heart Lung Transplant. 2026; in press [https://doi.org/10.1016/j.healun.2026.01.028](https://doi.org/10.1016/j.healun.2026.01.028)
 
 ## Overview
 
